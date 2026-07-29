@@ -44,6 +44,7 @@ The repository is organized into the following core components:
   - investigation closure
   - final report generation
   - alert severity updates
+![Uploading image.png…]()
 
 ## Local Data Stores
 
